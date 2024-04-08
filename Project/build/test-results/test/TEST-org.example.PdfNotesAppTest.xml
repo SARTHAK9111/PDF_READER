@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.PdfNotesAppTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-04-08T06:37:04" hostname="SARTHAK" time="0.011">
+  <properties/>
+  <testcase name="testEditBook()" classname="org.example.PdfNotesAppTest" time="0.002"/>
+  <testcase name="testReadBook_Page_turn()" classname="org.example.PdfNotesAppTest" time="0.003"/>
+  <testcase name="testDeleteBook()" classname="org.example.PdfNotesAppTest" time="0.002"/>
+  <testcase name="testSelectBook()" classname="org.example.PdfNotesAppTest" time="0.004"/>
+  <system-out><![CDATA[Enter the title of the book you want to edit:
+Enter the new title for the book:
+Book title updated successfully.
+Enter the title of the book you want to read:
+Title: Java Programming
+Author: John Doe
+Please select an action:
+1. Next Page
+2. Previous page
+3. Jump to page number
+4. Add Annotation
+5. Remove Annotation
+6. Add Bookmark
+7. Edit Bookmark
+8. Go to Bookmark
+9. Swtich Book
+10. Page Slider
+11. Exist
+Please enter the PageNumber you want to Jump
+You have jumped to page number 6
+Please select an action:
+1. Next Page
+2. Previous page
+3. Jump to page number
+4. Add Annotation
+5. Remove Annotation
+6. Add Bookmark
+7. Edit Bookmark
+8. Go to Bookmark
+9. Swtich Book
+10. Page Slider
+11. Exist
+You are on Page Number 7
+You are on Page Number 6
+Enter the title of the book you want to delete:
+Book deleted successfully.
+Select a book from the list:
+1. Java Programming
+2. Data Structure
+3.  Go Back
+Selected book: Java Programming
+Title: Java Programming
+Author: John Doe
+Please select an action:
+1. Next Page
+2. Previous page
+3. Jump to page number
+4. Add Annotation
+5. Remove Annotation
+6. Add Bookmark
+7. Edit Bookmark
+8. Go to Bookmark
+10. Page Slider
+11. Exit
+]]></system-out>
+  <system-err><![CDATA[9. Switch Book
+]]></system-err>
+</testsuite>

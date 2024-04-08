@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.BookTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-04-08T06:37:04" hostname="SARTHAK" time="0.022">
+  <properties/>
+  <testcase name="testEditbook()" classname="org.example.BookTest" time="0.011"/>
+  <testcase name="testAddAnnotationToPage()" classname="org.example.BookTest" time="0.002"/>
+  <testcase name="testAddBookmark()" classname="org.example.BookTest" time="0.004"/>
+  <testcase name="testRemoveAnnotationFromPage()" classname="org.example.BookTest" time="0.001"/>
+  <testcase name="testgotoBookmark()" classname="org.example.BookTest" time="0.001"/>
+  <system-out><![CDATA[Please enter the bookmark title you want to change:
+Please enter the new title for the bookmark:
+Bookmark label updated successfully: NewBookMark
+Please enter the text you want to add Annotation on page number:
+Please select the type of Annotation :
+1. Pen
+2. Marker
+3. Eraser
+4. Post-it Note
+Please enter the color of the Annotation:
+1. Red
+2. Black
+3. Blue
+Please enter the width of the Annotation:
+1. Small
+2. Medium
+3. Large
+Please enter the Title for the Bookmark
+Bookmark added successfully: p1 BookMark
+you are on the page 1
+Please enter the annotation text you want to remove:
+Annotation removed successfully.
+Please enter the title of the bookmark you want to navigate to:
+Navigated to bookmarked page: 6
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

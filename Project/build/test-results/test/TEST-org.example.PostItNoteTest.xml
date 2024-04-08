@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.PostItNoteTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-04-08T06:37:04" hostname="SARTHAK" time="0.002">
+  <properties/>
+  <testcase name="testPostItNoteBuilder()" classname="org.example.PostItNoteTest" time="0.001"/>
+  <testcase name="testGetMessage()" classname="org.example.PostItNoteTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
